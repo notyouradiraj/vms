@@ -1,6 +1,6 @@
-HOPINGBOYZ LICENSE (HBYZ-MIT+ 2025)
+VMS LICENSE (HBYZ-MIT+ 2025)
 
-Copyright © 2025 Hopingboyz
+Copyright © 2025-2026 NotAdirajGaming
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software under the conditions below.
 
